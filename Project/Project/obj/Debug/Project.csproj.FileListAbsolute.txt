@@ -1,0 +1,8 @@
+C:\Users\Alex_R\Desktop\Project\Project\bin\Debug\Project.exe.config
+C:\Users\Alex_R\Desktop\Project\Project\bin\Debug\Project.exe
+C:\Users\Alex_R\Desktop\Project\Project\bin\Debug\Project.pdb
+C:\Users\Alex_R\Desktop\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\Alex_R\Desktop\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex_R\Desktop\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\Alex_R\Desktop\Project\Project\obj\Debug\Project.exe
+C:\Users\Alex_R\Desktop\Project\Project\obj\Debug\Project.pdb

@@ -1,0 +1,4 @@
+﻿Alex, Manager
+Andrei, Admin
+Marius, Manager
+Iulian, Admin
