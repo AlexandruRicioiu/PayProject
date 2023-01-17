@@ -57,7 +57,7 @@ namespace Project
             string path = "C:\\Users\\Alex_R\\Desktop\\Project\\Project\\summary.txt";
             using (StreamWriter sw = new StreamWriter(path))
             {
-                sw.WriteLine("Staff with less than 10 working hours");
+                sw.WriteLine("Staff with less than 100 working hours");
                 sw.WriteLine("");
                 foreach (var f in result)
                     sw.WriteLine("Name of Staff: {0}, Hours Worked: {1}", f.NameOfStaff, f.HoursWorked);

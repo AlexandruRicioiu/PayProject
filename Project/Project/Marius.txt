@@ -1,11 +1,11 @@
 PAYSLIP FOR may 2010
 **************************************
-Name of Staff : Andrei
-Hours Worked : 160
+Name of Staff : Marius
+Hours Worked : 10
 
-Basic Pay: $4,800.00
-Overtime: $0.00
+Basic Pay: $500.00
+Allowance: $1,000.00
 
 **************************************
-Total Pay: $4,800.00
+Total Pay: $500.00
 **************************************

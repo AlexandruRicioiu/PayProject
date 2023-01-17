@@ -1,11 +1,11 @@
 PAYSLIP FOR may 2010
 **************************************
-Name of Staff : Andrei
-Hours Worked : 160
+Name of Staff : Iulian
+Hours Worked : 100
 
-Basic Pay: $4,800.00
+Basic Pay: $3,000.00
 Overtime: $0.00
 
 **************************************
-Total Pay: $4,800.00
+Total Pay: $3,000.00
 **************************************

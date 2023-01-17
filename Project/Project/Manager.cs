@@ -21,7 +21,7 @@ namespace Project
 
             if(HoursWorked > 160)
             {
-                TotalPay = BasicPay+ Allowance;
+                TotalPay = BasicPay + Allowance;
             }
 
         }
